@@ -1,6 +1,7 @@
 html {
     font-family: 'Playfair Display', serif;
     overflow: visible;
+    scroll-behavior: smooth;
 }
 
 .container {
